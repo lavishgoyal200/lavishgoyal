@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Lavish",
+    "image": "profile.jpg",
+    "bio": "I am a student, quick learner, team player, adaptable, creative person and always enthusiastic to gain knowledge",
+    "contactmessage": "Get in Touch",
+    "email": "goyallavish200@gmail.com",
+    "phone": "",
+    "address": {
+      "city": "Faridabad",
+      "state": "Delhi NCR",
+      "country": "India",
+      "zip": ""
+    },
+    "website": "https://www.linkedin.com/in/lavish-goyal-b94346247/",
+    "resumedownload": "https://drive.google.com/file/d/1N0hTPPZ946aVx6C3WIa7X5_VwV7ffa-K/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lavish-goyal-b94346247/",
+        "className": "fa fa-linkedin" 
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lavishgoyal200",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a student, quick learner, team player, adaptable, creative person and always enthusiastic to gain knowledge",
+    "education": [
+      {
+        "school": "J.C Bose University of Science and Technology, YMCA, Faridabad",
+        "degree": "Electronics & Computer Engineering",
+        "graduated": "2022 - 2026",
+        "description": "CGPA: 7.1/10.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "MananTechnosurge",
+        "title": "Session Head",
+        "years": "July'2024 - Present",
+        "description": "Organizing coding contests and Many session on various topic like Competetive Programming and Web development"
+      }
+    ],
+    "ratings": [
+      {
+        "website": "CodeChef",
+        "url": "https://www.codechef.com/users/lavishgoyal200",
+        "description": "Highest Rating: 1844(4 Star)"
+      },
+      {
+        "website": "CodeForces",
+        "url": "https://codeforces.com/profile/Lavishgoyal200",
+        "description": "Max-Rating: 1396"
+      },
+      {
+        "website": "LeetCode",
+        "url": "https://leetcode.com/u/lavishgoyal200/",
+        "description": "Max-Rating: 1644"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Data-Structures",
+        "level": "90%"
+      },
+      {
+        "name": "ALGORITHMS",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "85%"
+      },
+
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zingato",
+        "category": "A Food delivery website with TechStack: React.js",
+        "image": "ZINGATO.png",
+        "url": "https://lavishgoyal200.github.io/Zingato/"
+      }
+    ]
+  }
+}
