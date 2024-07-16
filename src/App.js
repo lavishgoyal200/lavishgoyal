@@ -10,9 +10,10 @@ import Portfolio from './Components/Portfolio';
 function App() {
   const [resumeData, setResumeData] = useState({});
 
+  // CHNAGE url to /resumeData.json to run on local
   useEffect(() => {
     $.ajax({
-      url:'/resumeData.json',
+      url:'https://lavishgoyal200.github.io/lavishgoyal/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data) {
