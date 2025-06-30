@@ -13,7 +13,7 @@
       "zip": ""
     },
     "website": "https://lavishgoyal200.github.io/lavishgoyal/",
-    "resumedownload": "https://drive.google.com/file/d/1MOpbsI-nJ0WqhEv1Td9hOj80YCkJdUpJ/view",
+    "resumedownload": "https://drive.google.com/drive/folders/12cs7KLakJCeLBR5aHVAOO3fps9fB85yH",
     "social": [
       {
         "name": "linkedin",
@@ -28,13 +28,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am a student, quick learner, team player, adaptable, creative person and always enthusiastic to gain knowledge",
+    "skillmessage": "I am a Competetive programmer, quick learner, team player, adaptable, creative person and always enthusiastic to gain knowledge",
     "education": [
       {
         "school": "J.C Bose University of Science and Technology, YMCA, Faridabad",
         "degree": "Electronics & Computer Engineering",
         "graduated": "2022 - 2026",
-        "description": "CGPA: 7.2/10.0"
+        "description": "CGPA: 7.25/10.0"
       }
     ],
     "work": [
@@ -59,7 +59,7 @@
       {
         "website": "LeetCode",
         "url": "https://leetcode.com/u/lavishgoyal200/",
-        "description": "Max-Rating: 1741"
+        "description": "Max-Rating: 1749"
       }
     ],
     "skills": [
@@ -96,7 +96,19 @@
         "title": "Zingato",
         "category": "A Food delivery website with TechStack: React.js",
         "image": "ZINGATO.png",
-        "url": "https://lavishgoyal200.github.io/Zingato/"
+        "url": "zingato.vercel.app"
+      },
+      {
+        "title": "Spokn-Platform",
+        "category": "A Language Learning Platform",
+        "image": "ZINGATO.png",
+        "url": "spokn1.vercel.app"
+      },
+      {
+        "title": "Admin Portal",
+        "category": "Admin portal for zingato",
+        "image": "ZINGATO.png",
+        "url": "https://zingato-admin.vercel.app/"
       }
     ]
   }
