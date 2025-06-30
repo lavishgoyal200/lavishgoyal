@@ -96,18 +96,18 @@
         "title": "Zingato",
         "category": "A Food delivery website with TechStack: React.js",
         "image": "ZINGATO.png",
-        "url": "zingato.vercel.app"
+        "url": "https://zingato.vercel.app/"
       },
       {
         "title": "Spokn-Platform",
         "category": "A Language Learning Platform",
-        "image": "ZINGATO.png",
-        "url": "spokn1.vercel.app"
+        "image": "Spokn.png",
+        "url": "https://spokn1.vercel.app/"
       },
       {
         "title": "Admin Portal",
         "category": "Admin portal for zingato",
-        "image": "ZINGATO.png",
+        "image": "Admin.png",
         "url": "https://zingato-admin.vercel.app/"
       }
     ]
